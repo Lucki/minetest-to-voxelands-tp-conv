@@ -25,11 +25,29 @@ cobble.png
 b/dirt.png
 mud.png
 
+b/door_iron_upper.png
+door_steel_t.png
+
+b/door_iron_lower.png
+door_steel_b.png
+
+b/door_wood_upper.png
+door_wood_t.png
+
+b/door_wood_lower.png
+door_wood_b.png
+
 b/grass_side.png
 grass_side.png
 
 b/grass_side_snowed.png
 snow_side.png
+
+b/flower_dandelion.png
+flower_daffodil.png
+
+b/flower_rose.png
+flower_rose.png
 
 b/furnace_front_off.png
 furnace_front.png
@@ -154,54 +172,6 @@ tnt_top.png
 b/tnt_side.png
 tnt_side.png
 
-
-
-
-i/wood_axe.png
-tool_woodaxe.png
-
-i/wood_pickaxe.png
-tool_woodpick.png
-
-i/wood_shovel.png
-tool_woodshovel.png
-
-i/wood_sword.png
-tool_woodsword.png
-
-
-
-i/stone_axe.png
-tool_stoneaxe.png
-
-i/stone_pickaxe.png
-tool_stonepick.png
-
-i/stone_shovel.png
-tool_stoneshovel.png
-
-i/stone_sword.png
-tool_stonesword.png
-
-
-i/iron_axe.png
-tool_steelaxe.png
-
-i/iron_pickaxe.png
-tool_steelpick.png
-
-i/iron_shovel.png
-tool_steelshovel.png
-
-i/iron_sword.png
-tool_steelsword.png
-
-
-b/torch_on.png
-torch.png
-
-
-
 b/log_oak.png
 tree.png
 
@@ -210,25 +180,6 @@ tree_top.png
 
 b/planks_oak.png
 wood.png
-
-
-
-
-
-i/bucket_empty.png
-tool_tinbucket.png
-
-i/bucket_water.png
-tool_tinbucket_water.png
-
-i/bucket_empty.png
-tool_steelbucket.png
-
-i/bucket_water.png
-tool_steelbucket_water.png
-
-i/bucket_lava.png
-tool_steelbucket_lava.png
 
 b/wool_colored_black.png
 cotton_black.png
@@ -255,25 +206,61 @@ b/wool_colored_yellow.png
 cotton_yellow.png
 
 
-b/flower_dandelion.png
-flower_daffodil.png
 
-b/flower_rose.png
-flower_rose.png
 
+i/wood_axe.png
+tool_woodaxe.png
+
+i/wood_pickaxe.png
+tool_woodpick.png
+
+i/wood_shovel.png
+tool_woodshovel.png
+
+i/wood_sword.png
+tool_woodsword.png
+
+i/stone_axe.png
+tool_stoneaxe.png
+
+i/stone_pickaxe.png
+tool_stonepick.png
+
+i/stone_shovel.png
+tool_stoneshovel.png
+
+i/stone_sword.png
+tool_stonesword.png
+
+i/iron_axe.png
+tool_steelaxe.png
+
+i/iron_pickaxe.png
+tool_steelpick.png
+
+i/iron_shovel.png
+tool_steelshovel.png
+
+i/iron_sword.png
+tool_steelsword.png
+
+i/bucket_empty.png
+tool_tinbucket.png
+
+i/bucket_water.png
+tool_tinbucket_water.png
+
+i/bucket_empty.png
+tool_steelbucket.png
+
+i/bucket_water.png
+tool_steelbucket_water.png
+
+i/bucket_lava.png
+tool_steelbucket_lava.png
 
 i/bread.png
 bread.png
 
-
-b/door_wood_upper.png
-door_wood_t.png
-b/door_wood_lower.png
-door_wood_b.png
-
-b/door_iron_upper.png
-door_steel_t.png
-b/door_iron_lower.png
-door_steel_b.png
 
 
