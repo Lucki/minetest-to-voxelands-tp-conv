@@ -1,7 +1,7 @@
 #!/bin/bash
 cd "$(dirname "$0")"
 cd ..
-rm -rf minetest-texture-pack
+rm -rf voxelands-texture-pack
 rm -rf uctextures
 mkdir textures
 mkdir uctextures
@@ -54,4 +54,4 @@ convert "b/destroy_stage_0.png" \
 
 cd ..
 
-mv textures minetest-texture-pack
+mv textures voxelands-texture-pack
