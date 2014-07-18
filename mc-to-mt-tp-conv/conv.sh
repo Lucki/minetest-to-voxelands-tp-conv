@@ -23,6 +23,12 @@ do
 	cp $f "uctextures/i/"
 done
 
+FILES=$(dirname "$0")/../assets/minecraft/textures/entity/*.png
+for f in $FILES
+do
+	cp $f "uctextures/e/"
+done
+
 cd uctextures
 
 while read p; do
