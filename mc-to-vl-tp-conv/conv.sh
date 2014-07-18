@@ -41,7 +41,7 @@ while read p; do
 			mv "$p" trans.png
 		fi
 	fi
-done < ../mc-to-mt-tp-conv/transtable.txt
+done < ../mc-to-vl-tp-conv/transtable.txt
 
 
 #####################################
